@@ -1,1 +1,1 @@
-# laravel-static-pages
+# szihaj/laravel-static-pages

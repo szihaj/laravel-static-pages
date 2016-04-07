@@ -9,7 +9,7 @@ class StaticPage extends Facade
 
     protected static function getFacadeAccessor()
     {
-        return 'App\Http\Helpers\StaticPages';
+        return 'szihaj\LaravelStaticPages\StaticPages';
     }
 
 }

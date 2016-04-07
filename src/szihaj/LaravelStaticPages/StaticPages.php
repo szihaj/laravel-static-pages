@@ -2,7 +2,7 @@
 
 namespace szihaj\LaravelStaticPages;
 
-use App\StaticPage;
+use szihaj\LaravelStaticPages\Models\StaticPage;
 
 class StaticPages
 {

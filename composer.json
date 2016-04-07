@@ -1,0 +1,17 @@
+{
+    "name": "szihaj/laravel-static-pages",
+    "description": "Static page package for Laravel.",
+    "type": "Helper",
+    "authors": [
+        {
+            "name": "szihaj",
+            "email": "szihaj5fdp@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "szihaj\\LaravelStaticPages\\": "src/szihaj/LaravelStaticPages"
+        }
+    }
+}

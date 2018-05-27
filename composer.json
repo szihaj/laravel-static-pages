@@ -13,5 +13,6 @@
         "psr-4": {
             "szihaj\\LaravelStaticPages\\": "src/szihaj/LaravelStaticPages"
         }
-    }
+    },
+    "license": "GPL-3.0"
 }
